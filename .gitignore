@@ -1,0 +1,5 @@
+.idea
+venv
+repos
+.env
+results.xlsx

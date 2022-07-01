@@ -1,0 +1,4 @@
+git-fame>=1.15.1
+PyGithub>=1.55
+XlsxWriter>=3.0.3
+python-dotenv>=0.20.0
